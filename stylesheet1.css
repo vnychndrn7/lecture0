@@ -1,0 +1,68 @@
+
+		.general{
+			color: white;
+			font-variant: small-caps;
+			font-weight: light;
+			height: 80%;
+			width: 100%;
+			text-align: left top;
+			border-radius: 10px;
+			background-image: url("https://c4.wallpaperflare.com/wallpaper/539/989/273/boeing-747-flying-white-airplane-wallpaper-preview.jpg");
+			background-size:cover;
+			background-position: right;
+			
+		}
+		.dropdown{
+			text-align: Centre;
+			z-index: 1;
+			position: left;
+			width:110%
+			
+		}
+		/*.dropbtn{
+			border-color: #1A5276; 
+			background-color: white;
+			font-family: Verdana;
+			font-size: 120%;
+			font-variant: small-caps;
+			font-weight: light;
+			border-width: 5px;
+			font-variant: small-caps;
+			position: center-right;
+			width: 90%;
+			border-radius: 15px;
+			box-shadow: 5px 10px #1A5276;
+		}*/
+		.content{
+			display:none;
+			z-index: 1;
+			padding:20px;
+			color: #0A1A4B;
+			font-family: Verdana;
+			font-size: 100%;
+			font-variant: small-caps;
+			font-weight: bold;
+
+			border-color: #8187CE;
+		}
+		.content a{
+			display:block;
+			text-align:center;
+			z-index: 1;
+			padding:20px;
+			color: #0A1A4B;
+			font-family: Verdana;
+			font-size: 100%;
+			font-style: oblique;
+			font-weight: light;
+			border-style:groove;
+			border-color: #8187CE;
+			border-radius:10px;
+		}
+		.show{display:block;}
+		.dropbtn:hover+.content{display:block;height:auto;width:auto;} 
+		.content:hover{display:block;}
+		.dropbtn:hover{background-color:#CCD1DF;}
+		.feet{background-color:blue;color:white; margin: 40px;}
+		.contact{margin: 40px}
+		

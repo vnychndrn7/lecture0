@@ -1,0 +1,61 @@
+$color:#1A5276;
+.dropbtn{
+			border-color: $color;  
+			background-color: white;
+			font-family: Verdana;
+			font-size: 120%;
+			font-variant: small-caps;
+			font-weight: light;
+			border-width: 2px;
+			font-variant: small-caps;
+			position: center-right;
+			width: 90%;
+			border-radius: 15px;
+			box-shadow: 5px 10px #1A5276;
+			
+		}
+.intcont{
+			padding-left:30px;
+			p
+			{
+				color: black; 
+				font-size: 18px; 
+				font-family: "Libre Baskerville", serif; 
+				text-align: left; 
+				text-shadow: 0 1px 1px #fff; 
+				padding-top: 20px; 
+			}
+			p1
+			{
+				font-weight:bold;
+				color: $color; 
+				font-family: 'Helvetica Neue', sans-serif; 
+				font-size: 21px; 
+				font-weight: 100; 
+				letter-spacing: 1px; 
+				padding: 0 0 40px; 
+				word-wrap: break-word;
+				
+			}
+			p2
+			{
+				color: $color; 
+				font-family: 'Julius Sans One', sans-serif; 
+				font-size: 20px; 
+				font-weight: bold; 
+				margin: 0 0 24px;
+				text-shadow: 1px 1px 1px #082b34;
+				word-wrap: break-word;
+			}
+			p3
+			{
+				color: $color; 
+				font-size: 18px; 
+				font-family: "Libre Baskerville", serif; 
+				text-align: left; 
+				text-shadow: 0 1px 1px #fff; 
+				padding-top: 20px; 
+				word-wrap: break-word;
+			}
+		}	
+

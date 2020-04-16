@@ -1,0 +1,47 @@
+.dropbtn {
+  border-color: #1A5276;
+  background-color: white;
+  font-family: Verdana;
+  font-size: 120%;
+  font-variant: small-caps;
+  font-weight: light;
+  border-width: 2px;
+  font-variant: small-caps;
+  position: center-right;
+  width: 90%;
+  border-radius: 15px;
+  box-shadow: 5px 10px #1A5276; }
+
+.intcont {
+  padding-left: 30px; }
+  .intcont p {
+    color: black;
+    font-size: 18px;
+    font-family: "Libre Baskerville", serif;
+    text-align: left;
+    text-shadow: 0 1px 1px #fff;
+    padding-top: 20px; }
+  .intcont p1 {
+    font-weight: bold;
+    color: #1A5276;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 21px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    padding: 0 0 40px; }
+  .intcont p2 {
+    color: #1A5276;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 0 24px;
+    text-shadow: 1px 1px 1px #082b34; }
+  .intcont p3 {
+    color: #1A5276;
+    font-size: 18px;
+    font-family: "Libre Baskerville", serif;
+    text-align: left;
+    text-shadow: 0 1px 1px #fff;
+    padding-top: 20px; }
+
+/*# sourceMappingURL=sassdropbtn.css.map */
